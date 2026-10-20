@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glean Vincent</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
-- 👨‍💻 All of my projects are available at [https://portofolioglean.vercel.app/](https://portofolioglean.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portofolioglean.vercel.app/](https://portofolioglean.vercel.app/, https://kalkulatorgacor.vercel.app/)
 
 - 📫 How to reach me **gleanvincent01@gmail.com**
 
